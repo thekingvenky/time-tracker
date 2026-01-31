@@ -51,8 +51,9 @@
             
 
          </plugin>
+                     </plugins>
          </pluginManagement>
          </build>
-</plugins>
+
 
 </project>
