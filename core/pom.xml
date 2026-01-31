@@ -47,9 +47,12 @@
       --add-opens java.base/java.lang=ALL-UNNAMED
     </argLine>
   </configuration>
-</plugin>
-            </build>
-</pluginManagement>
+
+            
+
+         </plugin>
+         </pluginManagement>
+         </build>
 </plugins>
 
 </project>
